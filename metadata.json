@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "A production-ready full-stack portfolio dashboard to record transactions, manage monthly segment budgets, trigger overspending warnings, and export financial PDF/CSV reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
